@@ -13,3 +13,15 @@
 
 /* Logo original: se conserva completo y se adapta mediante CSS. */
 .brand .brand-logo{width:48px;height:48px;object-fit:contain;border-radius:12px;flex-shrink:0}.brand{gap:12px}@media(max-width:480px){.brand .brand-logo{width:40px;height:40px;border-radius:10px}}
+
+/*Botón de precio */
+.nav-cta {
+  background-color: #c21875;
+  color: #ffffff;
+  border-color: #c21875;
+}
+
+.nav-cta:hover {
+  background-color: #a81561;
+  color: #ffffff;
+}
