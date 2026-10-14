@@ -14,4 +14,4 @@ https://innovayobebo.github.io/yo-bebo-web/
 
 ## Equipo
 
-Innovado Bebo
+YoBebo
